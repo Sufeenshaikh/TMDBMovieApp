@@ -1,0 +1,6 @@
+framework module CustomNetworkSDK {
+  umbrella header "CustomNetworkSDK.h"
+  export *
+
+  module * { export * }
+}

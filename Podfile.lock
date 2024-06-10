@@ -1,0 +1,16 @@
+PODS:
+  - CustomNetworkSDK (1.0.0)
+
+DEPENDENCIES:
+  - CustomNetworkSDK (~> 1.0)
+
+SPEC REPOS:
+  trunk:
+    - CustomNetworkSDK
+
+SPEC CHECKSUMS:
+  CustomNetworkSDK: ecc0b124dc3239ac6c1edb05ae5254f67386add7
+
+PODFILE CHECKSUM: 935144a4adf796137286dc3a7281930a75eb8186
+
+COCOAPODS: 1.15.2
